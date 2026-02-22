@@ -1,9 +1,9 @@
         document.addEventListener('DOMContentLoaded', function() {
             // Taxas de câmbio (poderiam ser buscadas de uma API)
             const taxas = {
-                dolar: 63.89,
-                euro: 69.17,
-                rand: 3.53
+                dolar: 63.91,
+                euro: 75.30,
+                rand: 4.08
             };
             
             // Símbolos das moedas
